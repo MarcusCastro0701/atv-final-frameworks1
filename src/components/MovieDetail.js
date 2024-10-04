@@ -15,7 +15,7 @@ import {
 } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-const API_KEY = 'acbe95a6b9a9d0f691d1bd98bfcdb612'; // Substitua por sua chave da API
+const API_KEY = 'acbe95a6b9a9d0f691d1bd98bfcdb612';
 
 // Tema personalizado
 const theme = createTheme({
